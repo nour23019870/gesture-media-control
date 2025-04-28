@@ -92,10 +92,6 @@ A computer vision application that allows users to control media playback and sy
 - Close other applications for optimal performance
 - Ensure proper lighting for better hand detection
 
-## License
-
-[Add your license information here]
-
 ## Acknowledgments
 
 - MediaPipe team for their hand tracking implementation
