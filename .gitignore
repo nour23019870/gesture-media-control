@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Debug logs
+*.log
+
+# Windows specific files
+Thumbs.db
+desktop.ini
+
+# macOS specific files
+.DS_Store
+
+# Media files (if you don't want to include them)
+# Uncomment if needed
+# *.mp4
+# *.avi
+# *.jpg
+# *.png
+
+# Documentation files
+media_control.docx
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Other
+.coverage
+htmlcov/

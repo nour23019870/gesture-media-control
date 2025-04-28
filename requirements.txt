@@ -1,0 +1,7 @@
+opencv-contrib-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.22.0
+pycaw>=20240210
+comtypes>=1.1.0
+sounddevice>=0.4.6
+psutil>=5.9.0
